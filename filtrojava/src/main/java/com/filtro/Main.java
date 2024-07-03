@@ -11,7 +11,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
 
-        String url = "jdbc:mysql://localhost:3306/cine_campus";
+        String url = "jdbc:mysql://localhost:3306/cinecampus";
         String user = "root";
         String password = "123456";
 
